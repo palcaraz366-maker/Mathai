@@ -1,0 +1,5 @@
+{
+  "name": "MathAI Solver",
+  "description": "AI-powered math problem solver using camera and Gemini.",
+  "requestFramePermissions": ["camera"]
+}
